@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PhotoPicker
 //
-//  Created by ishift on 2020/12/07.
+//  Created by Allie Kim on 2020/12/07.
 //
 
 import UIKit
